@@ -1,0 +1,4 @@
+name_id,date,time,correct,displaced,bracketed,body_bracket,degree,degree_type,symbol,body1,body2
+1,2018-10-10,12:04:00,1%,0%,YES,Mercury,0,Applying,180,Mercury,Uranus
+1,2018-10-10,12:04:00,1%,0%,YES,Mercury,0,Applying,180,Mercury,Uranus
+4,2019-11-25,09:05:00,0.5%,0.5%,YES,Mars,0,Applying,180,Mars,Uranus
